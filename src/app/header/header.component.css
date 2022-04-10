@@ -1,0 +1,17 @@
+p{
+    margin-top: 2rem;
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-bottom: 6rem;
+}
+@media screen and (max-width: 1150px) {
+    p{
+        margin-bottom: 4rem;
+    }
+}
+@media screen and (max-width: 801px) {
+    p{
+        margin-bottom: 1rem;
+        margin-top: 1rem;
+    }
+}
